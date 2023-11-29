@@ -16,3 +16,5 @@ Here I have chained multiple API's using newman and generated report using repor
  
 -Give following command to run
  ``` npm start ``` 
+ 
+<img width="382" alt="dmoney api testing_png" src="https://github.com/sharmin13017/dmoney-rest-api-assignment/assets/151603424/4c36973d-2611-4e79-8a26-165b99c580bd">

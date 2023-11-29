@@ -16,6 +16,7 @@ Here I have chained multiple API's using newman and generated report using repor
  
 -Give following command to run
  ``` npm start ``` 
+https://documenter.getpostman.com/view/9682968/2s9YeG5WpD
 
 <img width="959" alt="newman report assignment" src="https://github.com/sharmin13017/dmoney-rest-api-assignment/assets/151603424/f62c03ff-483b-41a2-ab06-ff06b17fa9ef">
 

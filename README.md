@@ -16,6 +16,8 @@ Here I have chained multiple API's using newman and generated report using repor
  
 -Give following command to run
  ``` npm start ``` 
+
+ 
 -Postman documentation
 https://documenter.getpostman.com/view/9682968/2s9YeG5WpD
 

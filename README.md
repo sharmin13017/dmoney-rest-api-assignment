@@ -9,10 +9,10 @@ Here I have chained multiple API's using newman and generated report using repor
 
 ## How to run this project:
 -Clone this project
-https://github.com/sharmin13017/dmoney-rest-api-assignment/edit/main/README.md
+``` https://github.com/sharmin13017/dmoney-rest-api-assignment/edit/main/README.md `` 
 
 -In the source root project, give following command:
- npm i
+ ``` npm i ```
  
 -Give following command to run
- npm start 
+ ``` npm start ``` 

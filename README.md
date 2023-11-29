@@ -16,8 +16,9 @@ Here I have chained multiple API's using newman and generated report using repor
  
 -Give following command to run
  ``` npm start ``` 
- 
-![Uploading MicrosoftTeams-image (6).png…]()
 
-![Uploading dmoney api assignment_1.png…]()
+<img width="959" alt="newman report assignment" src="https://github.com/sharmin13017/dmoney-rest-api-assignment/assets/151603424/f62c03ff-483b-41a2-ab06-ff06b17fa9ef">
+
+
+<img width="959" alt="newman report assignment-2" src="https://github.com/sharmin13017/dmoney-rest-api-assignment/assets/151603424/7d34441f-88bc-4123-a7d4-1f0510f08557">
 

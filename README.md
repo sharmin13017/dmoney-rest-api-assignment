@@ -17,6 +17,13 @@ Here I have chained multiple API's using newman and generated report using repor
 -Give following command to run
  ``` npm start ``` 
 
+ -Test Case
+ https://docs.google.com/spreadsheets/d/121sN6RqJdnSnGq8Cs1S2-gzxLssrSF4PastqGJmeluY/edit#gid=0
+
+ -Bug Report
+https://docs.google.com/spreadsheets/d/18JMNvFSL3pPBMJNBFnFRn-AfCWJNyt4tHjcjKup9mNA/edit#gid=0
+ 
+
 -Postman documentation
 https://documenter.getpostman.com/view/9682968/2s9YeG5WpD
 
